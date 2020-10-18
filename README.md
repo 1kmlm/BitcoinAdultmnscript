@@ -10,4 +10,4 @@ For the 2 or ... masternode only you need run script one more time ( just when s
   
 
 # Webside
-www.bitcoin-adult.org
+All orther information you can find: www.bitcoin-adult.org
