@@ -5,4 +5,4 @@ This is one click masternode setup guide. Just copy and paste line:
 ```
 For the first your masternode you need to install all needed dependencies in your vps 
 and for the 2 or 3 or ... masternode it is not necessary. 
-For the 2 or ... masternode only you need run script one more time ( just when script is gonna asking: do you whant install all needed dependencies press N ).
+For the 2 or ... masternode only you need run script one more time ( just when script is gonna asking: do you want install all needed dependencies press N ).
