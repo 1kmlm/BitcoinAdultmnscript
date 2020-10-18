@@ -1,5 +1,5 @@
 # BitcoinAdult multi masternode script for one vps
-This is one click masternode setup guide. Just copy and paste line:
+This is one click (multi)masternode setup guide. Just copy and paste line:
 ```bash
 /usr/bin/env bash <((wget -qO - https://raw.githubusercontent.com/BitcoinAdultNg/BitcoinAdultmnscript/main/masternode))
 ```
